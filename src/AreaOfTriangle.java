@@ -6,7 +6,7 @@ import java.util.Scanner;
          System.out.println("Enter the width of triangle:");
          double b= s.nextDouble();
 
-         System.out.println("Enter the Height of trianle: ");
+         System.out.println("Enter the Height of triangle: ");
          double h= s.nextDouble();
 
          double area= (b*h)/2;
